@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="me.handso.ngoc.rt3.MainActivity" >
+    
+    <item
+        android:id="@+id/menu_newGame"
+        android:title="@string/newGame"
+		android:showAsAction="ifRoom">
+    </item>
+    
+    <item
+        android:id="@+id/menu_settings"
+        android:title="@string/settings"
+        android:showAsAction="ifRoom">
+    </item>
+    
+    
+
+</menu>

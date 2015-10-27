@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="greyBG">#50000000</color>
+    <color name="yellowBG">#50FFFF00</color>
+    <color name="greenBG">#80008585</color>
+    <color name="redBG">#80BA0000</color>
+    <color name="greenX">#008585</color>
+    <color name="redO">#BA0000</color>
+    <color name="lwood">#0600AB</color>
+    <color name="swood">#5300AB</color>
+    
+</resources>
